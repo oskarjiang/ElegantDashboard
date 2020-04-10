@@ -9,7 +9,7 @@ Start React application
 ```
 npm start
 ```
-Start Electron application that targets that wrapps React application
+Start Electron application that wraps React application
 ```
 npm run electron-start
 ```
